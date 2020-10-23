@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('imgs/paper.jpg');
+  background-size: cover;
+  background-position: center center;
+}
